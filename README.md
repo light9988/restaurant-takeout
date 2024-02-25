@@ -41,6 +41,6 @@
 
 
 To run V1:
-cd V1
-mvn clean package
-java -jar target/V1-0.0.1-SNAPSHOT.jar  
+- cd V1
+- mvn clean package
+- java -jar target/V1-0.0.1-SNAPSHOT.jar  
